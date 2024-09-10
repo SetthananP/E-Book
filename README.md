@@ -22,20 +22,20 @@ Developed an e-book reader app using **Dart/Flutter**, designed for users to bot
 <img src="https://github.com/SetthananP/E-Book/blob/main/imagesREADME/startEbook.png?raw=true" alt="Start Page" width="400"/>
 
 2. Home Page
-
-![Home Page](https://github.com/SetthananP/E-Book/blob/main/imagesREADME/homeEbook.png?raw=true)
+   
+<img src="https://github.com/SetthananP/E-Book/blob/main/imagesREADME/homeEbook.png?raw=true" alt="Home Page" width="400"/>
 
 3. Details Page
-
-![Details Page](https://github.com/SetthananP/E-Book/blob/main/imagesREADME/detailEbook.png?raw=true)
+   
+<img src="https://github.com/SetthananP/E-Book/blob/main/imagesREADME/detailEbook.png?raw=true" alt="Details Page" width="400"/>
 
 4. Read Page
-
-![Read Page](https://github.com/SetthananP/E-Book/blob/main/imagesREADME/readEbook.png?raw=true)
+   
+<img src="https://github.com/SetthananP/E-Book/blob/main/imagesREADME/readEbook.png?raw=true" alt="Read Page" width="400"/>
 
 5. Audio Page
-
-![Audio Page](https://github.com/SetthananP/E-Book/blob/main/imagesREADME/clipEbook.png?raw=true)
+   
+<img src="https://github.com/SetthananP/E-Book/blob/main/imagesREADME/clipEbook.png?raw=true" alt="Audio Page" width="400"/>
 
 
 ## Installation
@@ -44,3 +44,17 @@ To run this project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/SetthananP/E-Book.git
+
+2. Navigate into the project directory:
+   ```bash
+   cd ebook-app
+
+3. Install dependencies:
+   ```bash
+   flutter pub get
+
+4. Run the app:
+   ```bash
+   flutter run
+
+   
