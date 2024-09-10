@@ -18,8 +18,8 @@ Developed an e-book reader app using **Dart/Flutter**, designed for users to bot
 ## Screenshots
 
 1. Start Page
-
-![Start Page](https://github.com/SetthananP/E-Book/blob/main/imagesREADME/startEbook.png?raw=true)
+   
+<img src="https://github.com/SetthananP/E-Book/blob/main/imagesREADME/startEbook.png?raw=true" alt="Start Page" width="400"/>
 
 2. Home Page
 
