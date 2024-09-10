@@ -1,16 +1,26 @@
-# my_ebook
+# E-book Reader 📚 
 
-A new Flutter project.
+## 📝 Project Description
+Developed an e-book reader app using **Dart/Flutter**, designed for users to both **read** and **listen** to audio explanations of books anywhere
 
-## Getting Started
+![Build Status](https://img.shields.io/badge/build-Complete-brightgreen)
 
-This project is a starting point for a Flutter application.
+## Table of Contents
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Installation](#installation)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
+- 📖 **E-book reading**: Users can read, and bookmark pages.
+- 🔊 **Audio support**: Listen to audio explanations while reading.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+
+## Installation
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/bokbok.git](https://github.com/SetthananP/BOKBOK.git
