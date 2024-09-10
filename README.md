@@ -17,10 +17,30 @@ Developed an e-book reader app using **Dart/Flutter**, designed for users to bot
 
 ## Screenshots
 
+1. Start Page
+
+[!Start Page](https://github.com/SetthananP/E-Book/blob/main/imagesREADME/startEbook.png?raw=true)
+
+2. Home Page
+
+[!Home Page](https://github.com/SetthananP/E-Book/blob/main/imagesREADME/homeEbook.png?raw=true)
+
+3. Details Page
+
+[!Details Page](https://github.com/SetthananP/E-Book/blob/main/imagesREADME/detailEbook.png?raw=true)
+
+4. Read Page
+
+[!Read Page](https://github.com/SetthananP/E-Book/blob/main/imagesREADME/readEbook.png?raw=true)
+
+5. Audio Page
+
+[!Audio Page](https://github.com/SetthananP/E-Book/blob/main/imagesREADME/clipEbook.png?raw=true)
+
 
 ## Installation
 To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bokbok.git](https://github.com/SetthananP/BOKBOK.git
+   git clone https://github.com/SetthananP/E-Book.git
